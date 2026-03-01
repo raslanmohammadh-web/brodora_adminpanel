@@ -316,7 +316,7 @@ def show_dashboard():
         
         type_counts = st.session_state.jewelry['Type'].value_counts()
         fig = px.pie(values=type_counts.values, names=type_counts.index, 
-                     hole=0.4, color_discrete_sequence=px.colors.sequential.Rose)
+                     hole=0.4, color_discrete_sequence=px.colors.sequential.Oranges)
         fig.update_layout(plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(fig, use_container_width=True)
         st.markdown('</div>', unsafe_allow_html=True)
