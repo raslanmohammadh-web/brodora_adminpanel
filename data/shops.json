@@ -1,0 +1,32 @@
+[
+  {
+    "Shop ID": "SHOP0001",
+    "Shop Name": "Royal Jewellers",
+    "Owner": "Kumar Sangakkara",
+    "Email": "royal@jewellers.lk",
+    "Location": "Colombo 07",
+    "Status": "Approved",
+    "Registration Date": "2026-02-11T12:28:31.164143",
+    "Jewelry Count": 45
+  },
+  {
+    "Shop ID": "SHOP0002",
+    "Shop Name": "Golden Palace",
+    "Owner": "Mahela Jayawardene",
+    "Email": "golden@palace.lk",
+    "Location": "Kandy",
+    "Status": "Approved",
+    "Registration Date": "2026-02-16T12:28:31.164207",
+    "Jewelry Count": 32
+  },
+  {
+    "Shop ID": "SHOP0003",
+    "Shop Name": "Diamond Dreams",
+    "Owner": "Lasith Malinga",
+    "Email": "diamond@dreams.lk",
+    "Location": "Galle",
+    "Status": "Approved",
+    "Registration Date": "2026-02-21T12:28:31.164220",
+    "Jewelry Count": 28
+  }
+]
